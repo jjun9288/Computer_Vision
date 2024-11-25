@@ -1,1 +1,1 @@
-# Computer_Vision
+# Some Computer Vision projects and tasks implementation
